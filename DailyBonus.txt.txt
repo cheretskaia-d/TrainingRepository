@@ -2,5 +2,3 @@
 Типы наград: Coins, Lives, ProtectLives, BombAndLineBoost, LightningBoost, MultiplyFishBoost, HammerBonus, CrossHammerBonus.
 
 Анимация!
-
-Эффекты VFX
